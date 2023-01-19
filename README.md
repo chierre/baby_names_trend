@@ -5,7 +5,7 @@ The ranking, grouping, joining, ordering, and pattern matching skills I used in 
 
 ## A few more words
 
-Another DataCamp project, really important for me in order to gain confidence and put in practice some new skills.
+Another DataCamp project, really important to me in order to gain confidence and put in practice some new skills.
 
 Technology: SQL
 
